@@ -37,13 +37,13 @@ Queremos que se cree BackOffice donde se expongan las siguientes operaciones:
     
    2. CRUD de alquileres (Alquiler para una o varias películas y cálculo del precio) con los siguientes campos como mínimo que se deben tener en cuenta.
     
-        a.Cliente
-        b.Películas
-        c.Valor Total
-        d.Fecha Inicio
-        e.Fecha Fin 
+            a.Cliente
+            b.Películas
+            c.Valor Total
+            d.Fecha Inicio
+            e.Fecha Fin 
  
- ##¿Como ejecutar el proyecto?
+ ## ¿Como ejecutar el proyecto?
     
         1. Descargaremos XAMPP (sistema de gestión de bases de datos (LOCAL) MySQL) https://www.apachefriends.org/es/index.html
     
@@ -72,9 +72,9 @@ Queremos que se cree BackOffice donde se expongan las siguientes operaciones:
     12. ya tenienendo el proyecto ejecutando iremos al login en la parte superior derecha 
     13. para ingresar al sistema usaremos las siguientes credenciales
     
-##USUARIO :admin@gmail.com 
+## USUARIO :admin@gmail.com 
     
-##PASSWORD : 123456789
+## PASSWORD : 123456789
     
     14. Y alli ya encontramos todo lo requerido anteriormente
 
