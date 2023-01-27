@@ -93,9 +93,3 @@ Queremos que se cree BackOffice donde se expongan las siguientes operaciones:
         ![image](https://user-images.githubusercontent.com/57229469/215010220-5509ef02-e3e3-4427-80e5-8c30dbe93af1.png)
     Y las rutas en la cual mandabamos la informacion del controlador a las vistas
         ![image](https://user-images.githubusercontent.com/57229469/215010286-585751f4-2d35-48df-86e5-01a2e3413339.png)
-
-        
-
-
-    
-
