@@ -78,3 +78,24 @@ Queremos que se cree BackOffice donde se expongan las siguientes operaciones:
     
     14. Y alli ya encontramos todo lo requerido anteriormente
 
+## ¿En que lenguaje se desarrollo el proyecto?
+    El proyecto fue desarrollado En PHP con el FRAMEWORK Laravel, como un template de https://www.creative-tim.com/templates/laravel-free, usando Boostrap, HTML5, CSS
+    JavaScript
+    
+## ¿Componentes principales?
+    Controlador 
+        ![image](https://user-images.githubusercontent.com/57229469/215009848-c51d5f76-275f-4445-82ea-f9a8b98dda26.png)
+    Modelo
+        ![image](https://user-images.githubusercontent.com/57229469/215009934-289df422-8480-4dae-b249-6e112ce507b0.png)
+    Recursos como lo son JS, Imagenes, CSS
+        ![image](https://user-images.githubusercontent.com/57229469/215010142-da5c9110-1548-46f3-8516-65dadc829b06.png)
+    y las vistas 
+        ![image](https://user-images.githubusercontent.com/57229469/215010220-5509ef02-e3e3-4427-80e5-8c30dbe93af1.png)
+    Y las rutas en la cual mandabamos la informacion del controlador a las vistas
+        ![image](https://user-images.githubusercontent.com/57229469/215010286-585751f4-2d35-48df-86e5-01a2e3413339.png)
+
+        
+
+
+    
+
