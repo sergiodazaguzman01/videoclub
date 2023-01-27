@@ -29,19 +29,19 @@ Queremos que se cree BackOffice donde se expongan las siguientes operaciones:
     
     1. CRUD de películas con los siguientes campos como mínimo que se deben tener en cuenta.
     
-        a. Nombre
-        b. Sinopsis
-        c. Precio Unitario
-        d. Tipo, Genero
-        e. Fecha de estreno
+        a.Nombre
+        b.Sinopsis
+        c.Precio Unitario
+        d.Tipo, Genero
+        e.Fecha de estreno
     
    2. CRUD de alquileres (Alquiler para una o varias películas y cálculo del precio) con los siguientes campos como mínimo que se deben tener en cuenta.
     
-        a. Cliente
-        b. Películas
-        c. Valor Total
-        d. Fecha Inicio
-        e. Fecha Fin 
+        a.Cliente
+        b.Películas
+        c.Valor Total
+        d.Fecha Inicio
+        e.Fecha Fin 
  
  ¿Como ejecutar el proyecto?
     
@@ -62,9 +62,31 @@ Queremos que se cree BackOffice donde se expongan las siguientes operaciones:
          *composer --version -> Aca nos debera mostrar la version del composer
     
     6. Abriremos el Xampp Control panel y ejecutaremos los dos primeros Action hasta estar el puerto en ejecucion (Apache, Mysql deben de estar en color verde)
-    7. Descargaremos el proyecto y lo pondremos en la ruta C:\xampp\htdocs.
-    8. Abriremos el proyecto en Visual Studio Code
-    9.
+    7. Crearemos una base de datos en el (http://localhost/phpmyadmin/index.php) con nombre videoclub, luego importaremos el videoclub.sql (base de datos)
+    8. Descargaremos el proyecto y lo pondremos en la ruta C:\xampp\htdocs.
+    9. Abriremos el proyecto en Visual Studio Code
+    10. Abriremos nuevamente la terminal puede ser la visual studio code o la de windows y accederemos a la siguiente ruta con el siguiente comando ###cd C:\xampp\htdocs\videoclub
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
   
     
     
