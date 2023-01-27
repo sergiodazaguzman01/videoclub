@@ -39,7 +39,7 @@ Queremos que se cree BackOffice donde se expongan las siguientes operaciones:
         e. Fecha Fin 
  
  ¿Como ejecutar el proyecto?
-    1. Descargaremos XAMPP (sistema de gestión de bases de datos (LOCAL) MySQL) https://www.apachefriends.org/es/index.html
+        1. Descargaremos XAMPP (sistema de gestión de bases de datos (LOCAL) MySQL) https://www.apachefriends.org/es/index.html
         * Ejecutamos hasta tener la ruta en el disco local C: XAMMPP
     2.Descargaremos COMPOSER (sistema de gestión de paquetes para programar en PHP) https://getcomposer.org/download/ 
         ![image](https://user-images.githubusercontent.com/57229469/215004596-ed8433ec-b6b4-45fe-85b9-f1973b29bf3e.png).
