@@ -43,7 +43,7 @@ Queremos que se cree BackOffice donde se expongan las siguientes operaciones:
         d.Fecha Inicio
         e.Fecha Fin 
  
- ¿Como ejecutar el proyecto?
+ ##¿Como ejecutar el proyecto?
     
         1. Descargaremos XAMPP (sistema de gestión de bases de datos (LOCAL) MySQL) https://www.apachefriends.org/es/index.html
     
