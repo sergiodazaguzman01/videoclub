@@ -68,6 +68,7 @@ class AlquilerController extends Controller
         //we redirect to the same page
         // return redirect()->route('users.show', $user->id);
         return redirect()->back();
+        //return redirect()->route('alquiler.index');
     }
 
 

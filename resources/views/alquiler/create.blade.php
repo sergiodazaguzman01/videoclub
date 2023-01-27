@@ -67,9 +67,9 @@
                                 </div>
                                 <!------------------------------------------------>
                                 <div class="row">
-                                    <label for="lanzamiento" class="col-sm-2 col-form-label" hidden >Lanzamiento</label>
+                                    <label for="lanzamiento" class="col-sm-2 col-form-label" hidden>Lanzamiento</label>
                                     <div class="col-sm-7">
-                                        <input type="text" id="lanzamiento" class="form-control"  hidden name="lanzamiento" placeholder="Lanzamiento" autofocus required disabled>
+                                        <input type="text" id="lanzamiento" class="form-control" hidden name="lanzamiento" placeholder="Lanzamiento" autofocus required disabled>
                                     </div>
                                 </div>
                                 <div class="row">
@@ -93,7 +93,7 @@
                                 <div class="row">
                                     <label for="valor_pelicula" class="col-sm-2 col-form-label"> Valor Total</label>
                                     <div class="col-sm-7">
-                                        <input type="text" class="form-control" id="total" disabled name="valor_pelicula" placeholder="Precio total" autofocus required>
+                                        <input type="text" class="form-control" id="total"  name="valor_pelicula" placeholder="Precio total" autofocus required readonly>
                                     </div>
                                 </div>
                             </div>
