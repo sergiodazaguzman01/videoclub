@@ -65,8 +65,15 @@ Queremos que se cree BackOffice donde se expongan las siguientes operaciones:
     7. Crearemos una base de datos en el (http://localhost/phpmyadmin/index.php) con nombre videoclub, luego importaremos el videoclub.sql (base de datos)
     8. Descargaremos el proyecto y lo pondremos en la ruta C:\xampp\htdocs.
     9. Abriremos el proyecto en Visual Studio Code
-    10. Abriremos nuevamente la terminal puede ser la visual studio code o la de windows y accederemos a la siguiente ruta con el siguiente comando ###cd C:\xampp\htdocs\videoclub
-    
+    10. Abriremos nuevamente la terminal puede ser la visual studio code o la de windows y accederemos a la siguiente ruta con el siguiente comando 
+    "cd C:\xampp\htdocs\videoclub" esto con el fin de ingresar a la carpeta del proyecto.
+    11. Ejecutaremos "php artisan serve --port=90" en la terminal para ejecutar el proyecto y el nos mostrara el puerto o ruta por donde esta ejecutando el servidor en 
+    en este caso mi puerto es "[http://127.0.0.1:90]" esta ruta la pegaremos en el navergador de preferencia 
+    12. ya tenienendo el proyecto ejecutando iremos al login en la parte superior derecha 
+    13. para ingresar al sistema usaremos las siguientes credenciales
+##USUARIO :admin@gmail.com 
+##PASSWORD : 123456789
+    14. Y alli ya encontramos todo lo requerido anteriormente
     
     
     
